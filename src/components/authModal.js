@@ -80,7 +80,7 @@ const AuthModal = ({setShowModal, setIsSignUp, isSignUp}) => {
                         <p>{error}</p>
                 </form> 
                 <hr/>
-                <h2>GET THE APP</h2>
+                <h2>APP COMING SOON</h2>
             </div>
             )
 }
