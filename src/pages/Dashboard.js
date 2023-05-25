@@ -118,7 +118,7 @@ const updateMatches = async (matchedUserId)=>{
                             <div style={{ backgroundImage: 'url(' + filteredGenderedUser.url + ')' }} className='card'>
                                   <h3>{filteredGenderedUser.first_name}</h3>
                                   <p>About me : {filteredGenderedUser.about}</p>
-                                
+          
                             </div>
                         </TinderCard>
         )}
