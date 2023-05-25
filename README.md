@@ -4,6 +4,8 @@ DATING-APP-DEPLOYMENT :
 - Base de données NoSQL (MongoDB)
 
 MODIFS A VENIR :
-- Amélioration de l'interface utilisateur via CSS
+- Amélioration de l'interface utilisateur 
 - Optimisation du code JS ( useEffect / useState à revoir + réorganisation de l'arborescence fichiers  )
-- Ajout de la catégorie "préférence culturelle" lors de l'OnBoarding.
+- Ajout d'un tabeau "Likes" dans le model MongoDB. 
+  Dans ce tableau seront ajoutés les utilisateurs ayant été 
+  swipés à droite. Cela permettra de mettre en place une réelle fonction de match 
