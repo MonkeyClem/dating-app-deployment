@@ -6,5 +6,6 @@ DATING-APP-DEPLOYMENT :
 MODIFS A VENIR :
 - Amélioration de l'interface utilisateur 
 - Optimisation du code JS ( useEffect / useState à revoir + réorganisation de l'arborescence fichiers  )
-- Ajout d'un tabeau "Likes", auquel seront ajoutés les utilisateurs ayant été 
-  swipé à droite. Cela permettra dans mettre en place une réelle fonction de match 
+- Ajout d'un tabeau "Likes" dans le model MongoDB. 
+  Dans ce tableau seront ajoutés les utilisateurs ayant été 
+  swipés à droite. Cela permettra de mettre en place une réelle fonction de match 
